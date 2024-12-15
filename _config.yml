@@ -21,7 +21,7 @@ repository               : "alexandre-lecestre/alexandre-lecestre.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "files/profile.jpg"
   name             : "Dr. Alexandre Lecestre"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher in Statistics and Machine Learning"
