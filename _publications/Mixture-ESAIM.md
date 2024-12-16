@@ -3,10 +3,8 @@ title: "Robust estimation in finite mixture models"
 collection: publications
 category: manuscripts
 permalink: /publication/mixture_models
-excerpt: 'This paper is about the estimation of finite mixture distributions, but also the estimation of the different parameters (weights and emission distributions).'
 date: 2023
 venue: 'ESAIM:PS'
-slidesurl: <> 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.esaim-ps.org/articles/ps/abs/2023/01/ps220003/ps220003.html'
 citation: 'Alexandre Lecestre. (2023). &quot;Robust estimation in finite mixture models.&quot; <i>ESAIM:PS</i>. (27)'
 ---
