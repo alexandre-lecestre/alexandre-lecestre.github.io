@@ -1,7 +1,7 @@
 ---
 title: "Robust estimation for ergodic Markovian processes"
 collection: publications
-permalink: /publication/HMM_arxiv
+permalink: /publications/HMM_arxiv
 date: 2023-07-07
 venue: 'ArXiv'
 link: 'https://arxiv.org/abs/2307.03666'
