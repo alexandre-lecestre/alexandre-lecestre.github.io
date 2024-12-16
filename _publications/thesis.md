@@ -1,5 +1,5 @@
 ---
-title: "Robust estimation for possibly dependent observations: application to mixture and hidden Markov models"
+title: 'Robust estimation for possibly dependent observations: application to mixture and hidden Markov models'
 collection: publications
 category: JApon
 permalink: /publication/phd_thesis
