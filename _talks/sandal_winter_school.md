@@ -9,4 +9,4 @@ location: "Online"
 link: "https://sandal.uni.lu/winter-school/"
 ---
 
-$\rho$-estimation in mixture models.
+$$\rho$$-estimation in mixture models.
