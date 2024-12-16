@@ -3,7 +3,7 @@ title: "Robust estimation in finite mixture models"
 collection: publications
 category: manuscripts
 permalink: /publication/mixture_models
-date: 2023
+date: 2023-03-08
 venue: 'ESAIM:PS'
 paperurl: 'https://www.esaim-ps.org/articles/ps/abs/2023/01/ps220003/ps220003.html'
 citation: 'Alexandre Lecestre. (2023). &quot;Robust estimation in finite mixture models.&quot; <i>ESAIM:PS</i>. (27)'
