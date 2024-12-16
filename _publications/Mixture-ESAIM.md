@@ -1,6 +1,7 @@
 ---
 title: "Robust estimation in finite mixture models"
 collection: publications
+category: manuscripts
 permalink: /publications/mixture_models
 date: 2023-03-08
 venue: 'ESAIM:PS'
