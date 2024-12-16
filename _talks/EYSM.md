@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/EYSM
 date: 2023-09-11
-location: "Online"
+venue:"online"
 link: "https://sites.google.com/view/eysm2023"
 ---
 
