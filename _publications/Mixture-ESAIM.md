@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publications/mixture_models
 date: 2023-03-08
 venue: 'ESAIM:PS'
-excerpt: 'voila'
+excerpt: 'Keywords: finite mixture model, robust estimation, supremum of an empirical process.'
 paperurl: 'https://www.esaim-ps.org/articles/ps/abs/2023/01/ps220003/ps220003.html'
 ---
 
