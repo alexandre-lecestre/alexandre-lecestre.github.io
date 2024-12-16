@@ -27,7 +27,7 @@ author:
   bio              : "Postdoctoral Researcher in Statistics and Machine Learning"
   location         : "Montpellier, France"
   employer         : "INRAE - UMR MISTEA"
-  uri              : "https://mistea.montpellier.hub.inrae.fr" # remplacer par employerurl
+  employeruri      : "https://mistea.montpellier.hub.inrae.fr"
   email            : "alexandre [dot] lecestre [at] inrae [dot] fr" 
 
   # Academic websites
