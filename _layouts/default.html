@@ -12,13 +12,14 @@ layout: compress
   </head>
 
   <body>
-    <div style="max-width: 900px; margin: 0 auto;">
+    
     {% include browser-upgrade.html %}
     {% include masthead.html %}
-    </div>
-
+    
+    <div style="max-width: 900px; margin: 0 auto;">
     {{ content }}
-
+    </div>
+    
     <div class="page__footer">
       <footer>
         {% include footer/custom.html %}
