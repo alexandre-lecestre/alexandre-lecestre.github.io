@@ -9,56 +9,51 @@ redirect_from:
 
 {% include base_path %}
 
+This is a shorter version of my [CV](files/CV_LECESTRE.pdf).
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mathematics and applications, University of Luxembourg, 2023
+  Advisor: Yannick Baraud
+  Thesis: 'Robust estimation for possibly dependent observations: application to mixture and hidden Markov models'
+* M.S. in Mathematics, Université Paris-Saclay, 2018
+  Probability and statistics track.
+* B.S. in Mathematics, Université Claude Bernard de Lyon, 2016
+* Élève normalien at *École Normale Supérieure de Lyon*, 2015--2019
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Since September 2024: Postdoc at MISTEA, INRAE Montpellier, with Nicolas Verzelen.
+  Subject: singal detection in active sensing.
+* 09/2019--12/2023: Doctoral researcher at the University of Luxembourg, member of the SanDAL team.
+  Subject: robust estimation for dependent observations.
+* 03/2019--07/2019: Internship at BioSP, INRAE Avignon, with Edith Gabriel.
+  Subject: estimation of the conditional intensity of a point process.
+* 10/2018--02/2019: Internship at Laboratoire J.A. Dieudonné, Université Côte d'Azur, with Yannick Baraud.
+  Subject: $$\rho$$-estimation for finite state space hidden Markov models.
+* 04/2018--07/2018: Master thesis at MISTEA, INRAE Montpellier, with Nicolas Verzelen.
+  Subject: Statistical analysis of inventory data.
+* 05/2017--07/2017: Internship at STOR-i, Lancaster University, with Paul Fearnhead.
+  Subject: Quasi-stationary distributions and their simulation.
+* 05/2016--06/2016: Internship at Institut Mathématiques de Toulouse, Université Paul Sabatier, with Jean-Michel Loubes.
+  Subject: A convergence theorem with respect to the Wasserstein metric.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Teaching experience
+======
+* Teaching Assistant: taught several courses in the Bachelor of Mathematics at the University of Luxembourg during my doctoral education.
+* Tutoring: Math Forge program at the University of Luxembourg during the winter semester of the academic year 2019/2020.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Referee work
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Referee for *Annales de l'Institut Henri Poincaré, Probabilités et Statistiques* (x1).
+  
+Languages
+======
+* French: mother tongue.
+* English: fluent (Grade C at the Cambridge Advanced Exam, equivalent to C1).
+* Spanish: intermediate level (~B2).
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* PhD representative for 2 years.
+  It includes the organization of the PhD away days.
