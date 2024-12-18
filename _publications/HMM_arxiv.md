@@ -6,7 +6,7 @@ permalink: /publications/HMM_arxiv
 date: 2023-07-07
 venue: 'ArXiv'
 paperurl: 'https://arxiv.org/abs/2307.03666'
-excerpt: 'Keywords: robust estimation, hidden Markov models, diffusion processes, mixing.'
+excerpt: 'Keywords: robust estimation, hidden Markov models, diffusion processes, mixing. Submitted to IEEE Transactions on Information Theory.'
 ---
 
 ### Abstract
