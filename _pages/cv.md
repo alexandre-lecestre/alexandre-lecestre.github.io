@@ -68,7 +68,7 @@ Languages
 
 * English: fluent (Grade C at the Cambridge Advanced Exam, equivalent to C1).
 
-* Spanish: intermediate level (~B2).
+* Spanish: intermediate level ($$\sim$$ B2).
 
 Service and leadership
 =====
