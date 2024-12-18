@@ -12,7 +12,7 @@ redirect_from:
 This is a shorter version of my [CV](/files/CV_LECESTRE.pdf).
 
 Education
-=====
+====
 
 * Ph.D in Mathematics and applications, University of Luxembourg, 2023\
   Advisor: Yannick Baraud\
@@ -26,7 +26,7 @@ Education
 * Élève normalien at *École Normale Supérieure de Lyon*, 2015--2019
 
 Research experience
-=====
+====
 
 * Since September 2024: Postdoc at MISTEA, INRAE Montpellier, with Nicolas Verzelen.\
   Subject: singal detection in active sensing.
@@ -50,19 +50,19 @@ Research experience
   Subject: A convergence theorem with respect to the Wasserstein metric.
 
 Teaching experience
-=====
+====
 
 * Teaching Assistant: taught several courses in the Bachelor of Mathematics at the University of Luxembourg during my doctoral education.
   
 * Tutoring: Math Forge program at the University of Luxembourg during the winter semester of the academic year 2019/2020.
 
 Referee work
-=====
+====
 
 * Referee for *Annales de l'Institut Henri Poincaré, Probabilités et Statistiques* (x1).
   
 Languages
-=====
+====
 
 * French: mother tongue.
 
@@ -71,7 +71,7 @@ Languages
 * Spanish: intermediate level ($$\sim$$ B2).
 
 Service and leadership
-=====
+====
 
 * PhD representative for 2 years.\
   It includes the organization of the PhD away days.
