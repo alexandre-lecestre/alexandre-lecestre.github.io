@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-This is a shorter version of my [CV](files/CV_LECESTRE.pdf).
+This is a shorter version of my [CV](/files/CV_LECESTRE.pdf).
 
 Education
 =====
