@@ -41,7 +41,7 @@ Research experience
   Subject: $$\rho$$-estimation for finite state space hidden Markov models.
   
 * 04/2018--07/2018: Master thesis at MISTEA, INRAE Montpellier, with Nicolas Verzelen.\
-  Subject: Statistical analysis of inventory data.
+  Subject: [Statistical analysis of inventory data](/files/rapport_M2.pdf).
   
 * 05/2017--07/2017: Internship at STOR-i, Lancaster University, with Paul Fearnhead.\
   Subject: Quasi-stationary distributions and their simulation.
