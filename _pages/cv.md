@@ -44,7 +44,7 @@ Research experience
   Subject: [Statistical analysis of inventory data](/files/rapport_M2.pdf).
   
 * 05/2017--07/2017: Internship at STOR-i, Lancaster University, with Paul Fearnhead.\
-  Subject: [Quasi-stationary distributions and their simulation](/files/QSDfinal.pdf).
+  Subject: Quasi-stationary distributions and their simulation.
   
 * 05/2016--06/2016: Internship at Institut Mathématiques de Toulouse, Université Paul Sabatier, with Jean-Michel Loubes.\
   Subject: A convergence theorem with respect to the Wasserstein metric.
