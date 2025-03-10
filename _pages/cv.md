@@ -29,19 +29,19 @@ Research experience
 ====
 
 * Since September 2024: Postdoc at MISTEA, INRAE Montpellier, with Nicolas Verzelen.\
-  Subject: singal detection in active sensing.
+  Subject: Signal detection in active sensing.
   
 * 09/2019--12/2023: Doctoral researcher at the University of Luxembourg, member of the SanDAL team.\
-  Subject: robust estimation for dependent observations.
+  Subject: Robust estimation for dependent observations.
   
 * 03/2019--07/2019: Internship at BioSP, INRAE Avignon, with Edith Gabriel.\
-  Subject: [estimation of the conditional intensity of a point process](/files/rapport_Avignon.pdf).
+  Subject: Estimation of the conditional intensity of a point process.
   
 * 10/2018--02/2019: Internship at Laboratoire J.A. Dieudonné, Université Côte d'Azur, with Yannick Baraud.\
   Subject: $$\rho$$-estimation for finite state space hidden Markov models.
   
 * 04/2018--07/2018: Master thesis at MISTEA, INRAE Montpellier, with Nicolas Verzelen.\
-  Subject: [Statistical analysis of inventory data](/files/rapport_M2.pdf).
+  Subject: Statistical analysis of inventory data.
   
 * 05/2017--07/2017: Internship at STOR-i, Lancaster University, with Paul Fearnhead.\
   Subject: Quasi-stationary distributions and their simulation.
