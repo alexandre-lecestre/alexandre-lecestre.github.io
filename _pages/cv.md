@@ -28,7 +28,9 @@ Education
 Research experience
 ====
 
-* Since September 2024: Postdoc at MISTEA, INRAE Montpellier, with Nicolas Verzelen.\
+* Since September 2025: Associate Professor (*Maître de conférences*) at the University of Bordeaux.
+
+* 09/2024--08/2025: Postdoc at MISTEA, INRAE Montpellier, with Nicolas Verzelen.\
   Subject: Signal detection in active sensing.
   
 * 09/2019--12/2023: Doctoral researcher at the University of Luxembourg, member of the SanDAL team.\
