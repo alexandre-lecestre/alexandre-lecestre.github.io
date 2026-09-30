@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publications/lsq
 date: 2026-09-29
 venue: 'TEST'
-paperurl: 'https://link.springer.com/article/10.1007/s11749-026-01046-3'
+paperurl: 'https://rdcu.be/P1zrxnuhHpWa'
 excerpt: 'Keywords: robust estimation, label shift, maximum likelihood.'
 ---
 
